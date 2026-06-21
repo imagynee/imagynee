@@ -1,6 +1,7 @@
 ## Hi there 👋
-I'm a 3rd year undergraduate.
-I like building things and optimizing them, their appearance, functionality and experience.
+### I'm a 3rd year undergraduate. 
+### I like building things and optimizing them, their appearance, functionality and experience.
+### And, tend to get curious about how things work underneath.
 
 
 <!--
