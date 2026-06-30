@@ -3,6 +3,9 @@ I'm a 3rd year undergraduate.
 I like building things and optimizing them, their appearance, functionality and experience.
 And, tend to get curious about how things work underneath.
 
+#quote
+We start by noticing a problem and breaking it into smaller pieces until the solution becomes obvious enough to code.
+
 
 <!--
 **imagynee/imagynee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
